@@ -1,10 +1,12 @@
-1] Create a folder
-2] Open a cmd in the folder
-3] Run git init command in the cmd
-    This creates a hidden folder named .git in the folder.
-4] Run git remote add origin [link of the reposority you want to connect your folder to]
-5] Run code . in cmd to open vscode the the same folder
-6] Create a demo text file and open terminal in that file
-7] In terminal enter git status to check git status
-8] then run add git
-9] then again run git status
+Create a folder
+Open a cmd in the folder
+Run git init command in the cmd which creates a hidden folder named .git in the folder.
+Run git remote add origin [link of the reposority you want to connect your folder to]
+Run code . in cmd to open vscode the the same folder
+Create a demo text file and open terminal in that file
+In terminal enter git status to check git status
+Then run add git
+Then again run git status
+Then enter git commit -m "[write a message here]"
+To add the file to git hub then run code git push
+Then copy and past the code provided by terminal and hit enter again
